@@ -1,8 +1,10 @@
 h1 {
-  color: #ff0000;
+  color: #f0;
   font-size: 10px;
+  background: #dd;
 }
 h2 {
   color: #0000ff;
   font-family: serif;
+  background: #ffd800;
 }
