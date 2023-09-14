@@ -24,17 +24,17 @@ img {
 li {
   color: red;
 }
-footer{
+.footer{
   background-color:
 
-flooter-logo{
+.flooter-logo{
   font-size:32px;
   float:left;
 }
-flooter-list{
+.flooter-list{
   float: right;
 }
-flooter-list li{
+.flooter-list li{
   padding-bottom:20px;
 }
   
